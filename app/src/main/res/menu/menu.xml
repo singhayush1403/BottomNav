@@ -20,5 +20,9 @@
         android:title="music"
         app:showAsAction="ifRoom" />
 <item
-    android:id=""
+    android:id="@+id/action_more"
+    android:enabled="true"
+    android:icon="@drawable/ic_more_horiz_black_24dp"
+    android:title="more"
+    app:showAsAction="ifRoom" />
 </menu>

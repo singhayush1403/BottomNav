@@ -4,6 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Favourite"
+    android:background="@color/colorPrimary"
     android:id="@+id/favourite">
 
     <!-- TODO: Update blank fragment layout -->

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:icon="@drawable/ic_videogame_asset_black_24dp"
+        android:title="Gmail" />
+    <item
+        android:icon="@drawable/ic_videogame_asset_black_24dp"
+        android:title="Hangouts" />
+    <item
+        android:icon="@drawable/ic_videogame_asset_black_24dp"
+        android:title="Google+" />
+    <item
+        android:icon="@drawable/ic_videogame_asset_black_24dp"
+        android:title="Mail" />
+
+    <item
+        android:icon="@drawable/ic_videogame_asset_black_24dp"
+        android:title="Message" />
+
+    <item
+        android:icon="@drawable/ic_videogame_asset_black_24dp"
+        android:title="Copy" />
+
+    <item
+        android:icon="@drawable/ic_videogame_asset_black_24dp"
+        android:title="Facebook" />
+
+    <item
+        android:icon="@drawable/ic_videogame_asset_black_24dp"
+        android:title="Twitter" />
+
+
+</menu>
